@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on QUATROBUS (MCeTS)<br>👯 I’m looking to collaborate on web/mobile open-source proyects<br>🌱 I’m currently learning react native
+🔭 I’m currently working on [QUATROBUS](https://www.linkedin.com/showcase/quatrobus/)<br>👯 I’m looking to collaborate on web/mobile open-source proyects<br>🌱 I’m currently learning react native
 
 
 ## 🌐 Socials:
